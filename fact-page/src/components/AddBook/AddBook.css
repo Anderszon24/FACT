@@ -1,0 +1,39 @@
+.login-service {
+  margin: 100px;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.login-service h2 {
+  width: 60%;
+  text-align: center;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #3ac43a;
+}
+
+.login-service form {
+  width: 50%;
+}
+
+.button-division {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.help-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 15px;
+}
+
+.help-container p {
+  margin-top: 10px;
+}

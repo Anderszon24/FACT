@@ -1,0 +1,18 @@
+.container-error-page {
+    margin-top: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+    align-items: center;
+}
+
+.container-error-page img{
+    width: 30%;
+    margin-bottom: 10px;
+}
+
+.container-error-page p{
+    font-size: 20px;
+}

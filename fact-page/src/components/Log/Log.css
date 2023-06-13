@@ -1,0 +1,54 @@
+.login-service {
+    margin: 100px;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center; 
+    font-family: 'Montserrat', sans-serif;
+}
+
+.login-service h1{
+    width: 60%;
+    text-align: center;
+    padding-bottom: 5px;
+    border-bottom: 1px solid #AF601A;
+    font-size: 2rem;
+}
+
+.login-service form{
+    width: 50%;
+}
+
+.login-state-container{
+    width: 100%; 
+    background-color: #bc11118a;
+    display: flex;
+    margin-top: 20px;
+    border-radius: 0.5rem;
+}
+
+.login-state{
+    padding: 7px;
+    color: #ffffff;
+}
+
+.button-division{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 0;
+}
+
+.help-container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+    margin-bottom: 5px;
+}

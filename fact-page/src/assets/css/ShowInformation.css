@@ -1,0 +1,40 @@
+.container-information{
+    font-family: 'Montserrat', sans-serif;
+    margin: 4rem; 
+}
+
+.text{
+    padding-bottom: 0.5rem;
+    border-bottom: solid 0.1rem;
+    border-color: #AF601A;
+
+}
+
+.container-input {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.form-control {
+    width: 40%;
+    padding: 0.5rem;
+    border-width: 0rem 0rem 0.1rem;
+    outline: none;
+}
+
+.btn {
+    width: 5%;
+    border-width: 0rem 0rem 0.1rem;
+    background-color: #ffffff;
+}
+
+.btn img{
+    transition: 0.5s;
+}
+
+.btn img:hover {
+    scale: 1.5;
+    cursor: pointer;
+}
