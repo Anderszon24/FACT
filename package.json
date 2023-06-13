@@ -9,6 +9,6 @@
     "concurrently": "^8.2.0"
   },
   "scripts": {
-    "start": "concurrently \"cd server && node index.js\" \"cd fact-page && npm run dev\""
+    "start": "concurrently \"cd server && npm install && node index.js\" \"cd fact-page && npm install && npm run dev\""
   }
 }
