@@ -13,7 +13,7 @@ app.listen(3002, () => {
 
 const db = mysql.createConnection({
     user: 'root',
-    host: 'lcontainers-us-west-100.railway.app',
+    host: 'containers-us-west-100.railway.app',
     password: '4HXHZJYm5dYiOXPQhtyT',
     database: 'railway',
     port: '6015'
